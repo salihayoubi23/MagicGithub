@@ -29,7 +29,7 @@ public class UserRepository {
 
     public void deleteUser(User user) {
         apiService.deleteUser(user);
-        // TODO: A modifier
+        
     }
 
 
